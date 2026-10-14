@@ -1,2 +1,4 @@
 # mi_primerproyecto
-un nuevo proyecto de programacion por mi parte
+Este es un analisis estadistico de pases y yardas en partidos de futbol americano
+ - Este proyecto incluye analisis estadistico descriptivo.
+ - Este proyecto incluye tambien diagramas de caja y bigote.
